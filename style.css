@@ -40,3 +40,9 @@ main h2 {
 .codys-styles {
     background:rgb(92, 149, 235);
 }
+
+.araz-style {
+    color: greenyellow;
+    background-color: orange;
+    padding: 10px;
+}
